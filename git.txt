@@ -1,0 +1,19 @@
+https://test.dev-bosch.com/jira/browse/TES-34
+epic name DIS-001- DU-Disabeling / eLock [MY20][BUI330]
+
+https://test.dev-bosch.com/jira/browse/BDU-1103
+
+
+https://test.dev-bosch.com/jira/browse/CE-2720
+
+https://test.dev-bosch.com/jira/browse/BDU-1113
+https://test.dev-bosch.com/jira/browse/TES-34
+
+ECR to epic
+https://dev-bosch.com/jira/browse/BPS3-349
+
+linked epic link to task
+https://dev-bosch.com/jira/browse/BPS3-41
+
+need to remove ECR name from screen
+
